@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/canberkonem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="canberkonem" height="30" width="40" /></a>
+ <!--
 <a href="https://instagram.com/canberk.onem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="canberk.onem" height="30" width="40" /></a>
+ -->
 </p>
 
 
